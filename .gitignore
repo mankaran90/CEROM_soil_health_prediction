@@ -93,3 +93,6 @@ target/
 
 #Added by dvc
 /data
+
+#Exclude tmp folder
+/tmp
