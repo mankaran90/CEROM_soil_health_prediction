@@ -96,3 +96,9 @@ target/
 
 #Exclude tmp folder
 /tmp
+
+#Exclude models folder
+/models
+
+#Exclude reports folder
+/reports
