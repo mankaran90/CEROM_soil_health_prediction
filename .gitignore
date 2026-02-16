@@ -101,3 +101,8 @@ target/
 
 #Exclude reports folder
 /reports
+
+#MLFlow
+mlruns/
+mlflow.db
+mlartifacts/
