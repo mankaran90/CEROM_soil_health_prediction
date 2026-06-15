@@ -106,3 +106,7 @@ target/
 mlruns/
 mlflow.db
 mlartifacts/
+
+#Exclude references folder
+references/*
+!references/.gitkeep
